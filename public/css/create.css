@@ -1,0 +1,65 @@
+.register .form-group input[type="radio"]:nth-child(2){
+	margin-left:30px;
+}
+
+.category input[type="checkbox"]{
+	display:inline-block;
+} 
+
+.category {
+	width:50%;
+	float:left;
+	margin: 0;
+}
+
+.category label input, .roles label input {
+	margin-right:10px;
+}
+
+.row h3 {
+	text-align:center;
+	font-weight:bold;
+}
+
+.category a {
+	margin: 0 5px;
+}
+
+.register label {
+	clear:left;
+	font-weight:normal;
+}
+
+.register span, .roles span {
+	display:block;
+	clear:left;
+	padding: 10px 0; 
+	font-weight:bold;
+ }
+
+ .roles {
+	display:block;
+	clear:left;
+ }
+ 
+ #stil1 {
+	color: #111;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 5px #ccc;
+    border: 1px solid #ccc;
+    font-size: 14px;
+	float:right;
+	padding: 10px 30px;
+	width:30%;
+	max-width: 200px;
+}
+
+
+datalist span{
+	text-align:left;
+}
+
+datalist option{
+	text-align:left;
+	width:auto;
+}
